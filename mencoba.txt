@@ -1,0 +1,3 @@
+Hasil rangkuman pembelajaran
+1. Instalasi laravel dan composer
+2. perintah dasar git hub
