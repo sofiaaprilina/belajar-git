@@ -1,0 +1,19 @@
+Nama     : Sofia Aprilina
+Kelas    : MI-2A
+No Absen : 22 (1931710008)
+
+Hasil Rangkuman Pembelajaran Mata Kuliah Pemrograman Web Lanjut
+Saya belajar beberapa materi baru yaitu :
+1. Cara menginstall composer 
+2. Cara menginstall laravel untuk web berbasis php dengan menggunakan laravel versi 6 dan php versi 7.2 ke atas
+3. Hasil instalasi laravel tersimpan dalam folder bernama blog (karena tidak saya ubah)
+4. Instalasi laravel tidak harus disimpan di dalam file htdocs
+5. Belajar menggunakan git untuk membuat repository, mengupload file dari lokal (komputer) ke remote git
+6. Perintah dasar git yang saya pahami yaitu:
+    - git init untuk memulai atau menghidupkan git
+    - git add untuk menambahkan atau membuat project
+    - git commit untuk menambahkan project baik file atau folder ke github
+    - git remote untuk menghubungkan menyimpan / mengupload file ke repository pada github
+    - git push untuk mendorong project dari lokal (komputer) ke github
+    - git pull untuk menarik atau mengambil project dari remote github ke lokal (komputer)
+    
